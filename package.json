@@ -27,10 +27,10 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "@mikro-orm/cli": "^4.5.9",
-    "@mikro-orm/core": "^4.5.9",
-    "@mikro-orm/migrations": "^4.5.9",
-    "@mikro-orm/postgresql": "^4.5.9",
-    "pg": "^8.7.1"
+    "@mikro-orm/cli": "^5.0.4",
+    "@mikro-orm/core": "^5.0.4",
+    "@mikro-orm/migrations": "^5.0.4",
+    "@mikro-orm/postgresql": "^5.0.4",
+    "pg": "^8.7.3"
   }
 }
